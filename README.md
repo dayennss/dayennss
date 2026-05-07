@@ -1,11 +1,7 @@
-<h1 align="center">✨ Olá, eu sou a Dayene Souza ✨</h1>
+<h2 align="center">✨ Olá, eu sou a Dayene Souza ✨</h2>
 
 <p align="center">
   <strong>Desenvolvedora Back-end apaixonada por tecnologia, cloud e boas arquiteturas ☁️💻</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Back-end+Developer+.NET+C%23;Cloud+AWS+☁️;Angular+%2B+TypeScript+⚡;Sempre+aprendendo+novas+tecnologias+🚀" alt="Typing SVG" />
 </p>
 
 ---
