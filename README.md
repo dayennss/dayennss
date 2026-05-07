@@ -46,18 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dayenns&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayenns&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
